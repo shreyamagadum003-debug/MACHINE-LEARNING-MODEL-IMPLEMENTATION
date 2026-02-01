@@ -12,12 +12,12 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH KUMAR
 
-#Spam Email Classification Using Machine Learning
+# Spam Email Classification Using Machine Learning
 
 This project implements a simple Machine Learning model in Python to classify emails as Spam or Not Spam using Scikit-learn. 
 It demonstrates the complete workflow of text classification including vectorization, model training, evaluation, and prediction using a small sample dataset.
 
-##Features
+## Features
 
 Converts email text into numerical features using CountVectorizer
 
@@ -29,25 +29,25 @@ Predicts whether a new email message is spam or not
 
 Beginner-friendly and easy to understand implementation
 
-##Installation
+## Installation
 
 Clone the repository:
 
 git clone <repository_link>
 
 
-##Install required libraries:
+## Install required libraries:
 
 pip install scikit-learn
 
-##Usage
+## Usage
 
 Run the Python script:
 
 python spam_classifier.py
 
 
-##The program will:
+## The program will:
 
 Train the model
 
@@ -55,13 +55,13 @@ Display accuracy and evaluation metrics
 
 Predict whether a sample email is spam or not
 
-##Technologies Used
+## Technologies Used
 
 Python
 
 Scikit-learn
 
-##How It Works
+## How It Works
 
 A small dataset of labeled email messages is used.
 
@@ -73,11 +73,11 @@ A Naive Bayes classifier is trained and evaluated.
 
 The model predicts spam or not spam for new input messages.
 
-##Applications
+## Applications
 
 This project can be extended for real-world email filtering systems, SMS spam detection, and content moderation tools.
 
-##OUTPUT
+## OUTPUT
 
 Program started
 
