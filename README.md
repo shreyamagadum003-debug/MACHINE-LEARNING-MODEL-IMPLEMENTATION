@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH KUMAR
 
-# Spam Email Classification Using Machine Learning
+## Spam Email Classification Using Machine Learning
 
 This project implements a simple Machine Learning model in Python to classify emails as Spam or Not Spam using Scikit-learn. 
 It demonstrates the complete workflow of text classification including vectorization, model training, evaluation, and prediction using a small sample dataset.
